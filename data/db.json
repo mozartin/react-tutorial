@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "lorem Ipsum...",
+      "author": "olena",
+      "id": 1
+    },
+    {
+      "title": "Welcome party!",
+      "body": "lorem Ipsum...",
+      "author": "olena",
+      "id": 2
+    },
+    {
+      "title": "Webdev top tips",
+      "body": "lorem Ipsum...",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "The Benefits of Regular Exercise",
+      "body": "Regular exercise is important for maintaining good health and preventing a variety of diseases. Exercise can also have a positive impact on mental health and overall well-being. Here are some of the benefits of regular exercise:\n\nImproved cardiovascular health: Exercise can help improve blood circulation and reduce the risk of heart disease, stroke, and high blood pressure.\n\nWeight management: Regular exercise can help you maintain a healthy weight and reduce the risk of obesity.\n\nIncreased strength and flexibility: Exercise can help you build and maintain muscle mass and improve flexibility, which can reduce the risk of injury.\n\nImproved mental health: Exercise has been shown to reduce symptoms of anxiety and depression and improve overall mood.\n\nBetter sleep: Regular exercise can improve the quality of sleep and reduce the risk of sleep disorders.\n\nIncreased energy: Exercise can boost energy levels and improve overall endurance, making it easier to perform daily tasks.\n\nOverall, incorporating regular exercise into your routine can have numerous benefits for both physical and mental health. So whether you prefer running, lifting weights, or practicing yoga, find an activity you enjoy and make it a part of your regular routine.",
+      "author": "olena",
+      "id": 5
+    },
+    {
+      "title": "The Benefits of Gratitude",
+      "body": "Gratitude is a powerful emotion that can have a significant impact on our overall well-being. When we take the time to focus on the good things in our lives and express gratitude for them, we can experience a range of benefits.",
+      "author": "mario",
+      "id": 6
+    }
+  ]
+}
